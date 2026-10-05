@@ -1,13 +1,16 @@
 # Computer Programming: Test Repo
 
-## Samuel Bennington
+## ROHIT RAJ B.K
 
-### Group FS4F
-### Duncan Mullier
+### Group CS4A
+
+
+
+### SAHARA
 
 This is a repo created just for testing.
 
-It contains some sample Markdown files in the `doc` folder, and
+It contains some sample Mark down files in the `doc` folder, and
 a collection of Python programs (taken from the Program Library)
 in the `src` folder.
 
